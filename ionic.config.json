@@ -1,5 +1,7 @@
 {
-  "name": "AC-3TRI-LP3",
-  "integrations": {},
+  "name": "ViaCEPApp",
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
